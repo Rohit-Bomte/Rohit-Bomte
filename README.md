@@ -33,6 +33,9 @@ When I'm not coding dashboards or wrangling datasets, you’ll find me capturing
 ## 📊 GitHub Stats:
 
 ![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohit-Bomte&show_icons=true&theme=tokyonight)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rohit-Bomte&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-Bomte&layout=compact&theme=tokyonight)
 
 ---

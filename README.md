@@ -11,7 +11,7 @@ When I'm not coding dashboards or wrangling datasets, you’ll find me capturing
 ## 📫 Connect With Me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-bomte/)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:bomterohit@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/_rohit.2204/)
 
 ---
 

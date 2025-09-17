@@ -38,12 +38,12 @@ When I'm not diving deep into datasets or crafting interactive dashboards, you'l
 ## 📈 GitHub Analytics:
 
 <div align="center">
-  
+
 ![Rohit's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Rohit-Bomte&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rohit-Bomte&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rohit-Bomte&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rohit-Bomte&layout=compact&theme=tokyonight&hide_border=false)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rohit-Bomte&layout=compact&theme=tokyonight&hide_border=false&langs_count=6)
 
 </div>
 

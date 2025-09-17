@@ -35,17 +35,36 @@ When I'm not diving deep into datasets or crafting interactive dashboards, you'l
 
 ---
 
-## 📈 GitHub Analytics:
+<div align="center">
 
 <div align="center">
 
-![Rohit's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Rohit-Bomte&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+### 📊 My GitHub Analytics
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rohit-Bomte&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=Rohit-Bomte&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffbf&icon_color=00ffbf&text_color=ffffff&border_radius=15" height="180px"/>
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-Bomte&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffbf&text_color=ffffff&border_radius=15&langs_count=6&card_width=400" height="180px"/>
+</td>
+</tr>
+</table>
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rohit-Bomte&layout=compact&theme=tokyonight&hide_border=false&langs_count=6)
+---
+
+### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=Rohit-Bomte&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
+
+---
+
+### 📊 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohit-Bomte&bg_color=0d1117&color=00ffbf&line=00ffbf&point=ff6b35&area=true&hide_border=true&border_radius=15" />
 
 </div>
+
+
 
 ---
 

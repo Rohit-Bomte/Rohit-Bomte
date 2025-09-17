@@ -1,47 +1,75 @@
-# Rohit Bomte / README.md
+```markdown
+# Hi there, I'm Rohit Bomte! 👋
 
-## 🔥 About Me:
+## 🚀 About Me:
+I'm a **Data Analytics Enthusiast** from India with a passion for transforming raw data into actionable insights. I excel at real-time problem solving and creating compelling data narratives that drive decision-making. 
 
-I'm Rohit, a passionate data analytics enthusiast from India. I thrive on real-time problem solving, turning raw data into powerful insights.
-
-When I'm not coding dashboards or wrangling datasets, you’ll find me capturing memories with my camera or editing quirky videos with friends.
-
----
-
-## 📫 Connect With Me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-bomte/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/_rohit.2204/)
+When I'm not diving deep into datasets or crafting interactive dashboards, you'll find me behind the lens capturing life's moments or editing creative videos with friends.
 
 ---
 
-## 🧠 Tech Stack:
-
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-20232A?logo=matplotlib&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-20B2AA?logo=seaborn&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
-![Statistics](https://img.shields.io/badge/Statistics-grey?logo=bar-chart&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white)
+## 🌐 Let's Connect:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-bomte/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_rohit.2204/)
 
 ---
 
-## 📊 GitHub Stats:
+## 💻 Technical Arsenal:
 
-![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohit-Bomte&show_icons=true&theme=tokyonight)
+### **Data Science & Analytics:**
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Rohit-Bomte&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+### **Data Visualization:**
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-Bomte&layout=compact&theme=tokyonight)
+### **Database & Analytics:**
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-FF6B35?style=for-the-badge&logo=scipy&logoColor=white)
+
+### **Creative Tools:**
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 ---
 
-## 🛠️ Currently Working On:
+## 📈 GitHub Analytics:
 
-- 📈 Real-time dashboards using Python & PowerBI  
-- 🧪 Predictive models on social impact datasets  
-- 🧠 Smart Firefighter Helmet — an IoT-based wearable device designed to monitor temperature, smoke, and movement in real time to enhance firefighter safety and assist emergency responders with actionable data   
+<div align="center">
+  
+![Rohit's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Rohit-Bomte&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rohit-Bomte&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rohit-Bomte&layout=compact&theme=tokyonight&hide_border=false)
+
+</div>
+
+---
+
+## 🎯 Current Focus:
+- 📊 **Building Real-time Dashboards** using Python & PowerBI for dynamic data visualization
+- 🔮 **Developing Predictive Models** on social impact datasets to drive meaningful change
+- 🚀 **Exploring Advanced Analytics** techniques for better data storytelling
+
+---
+
+## 🏆 What Drives Me:
+*"Data is the new oil, but insights are the refined fuel that powers innovation."*
+
+I believe in the power of data to solve real-world problems and create positive impact. Every dataset tells a story, and I'm here to help it speak.
+
+---
+
+<div align="center">
+  
+### 💡 Open to collaborating on exciting data projects!
+### 📧 Let's turn data into decisions together
+
+![Profile Views](https://komarev.com/ghpvc/?username=Rohit-Bomte&color=blue&style=flat-square)
+
+</div>
+```
